@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "exercicio-teste-unitarios",
-    "slug": "exercicio-teste-unitarios",
+    "name": "Aula_CI_CD",
+    "slug": "aulacicd",
+    "owner": "giovannacicds-team",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,7 +28,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "fcce2fb6-fb9f-4852-9545-0e17fd50dbe8"
+        "projectId": "11ded1ac-798a-4e6c-8bb7-726ee960d679"
       }
     }
   }
